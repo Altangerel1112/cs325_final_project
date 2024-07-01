@@ -1,2 +1,32 @@
 # cs325_final_project
-weather_forecast_website
+
+Project title:
+- Weather Forecast Website.
+
+Project Description
+- This project demonstrates how to create a dynamic weather forecast webpage by downloading, parsing, and displaying weather data from the NOAA API. The program accepts longitude and latitude coordinates, retrieves the weather forecast, and generates an HTML page displaying the forecast data in a styled table with a background image.
+
+How does this coding works:
+
+1. First thing you need is latest version of VSCode and install python extension.
+2. Install the Requests library if not already installed: (pip install requests)
+3. Open the weather_forecast python source file.
+4. When you run the code, it asks the coordinations. After you enter them, it creates forecast.html where you should able to visit the website.
+
+Brief description of the coding:
+
+1. Import Required Libraries.
+2. Get Forecast Function:
+	- Fetches data from NOAA API based on provided longitude and latitude.
+	- Extracts the forecast URL and fetches forecast data.
+	- Parses the forecast data and saves it to a text file.
+3. Generate HTML Function:
+
+	- Reads the forecast data from the text file.
+	- Generates an HTML file with a styled table displaying the forecast data.
+4. Main Function:
+
+	- Accepts user input for longitude and latitude.
+	- Calls the functions to get forecast data and generate the HTML file.
+
+
