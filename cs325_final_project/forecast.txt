@@ -1,0 +1,14 @@
+2024-06-30T15:00:00-05:00, Sunday, 80, Sunny, 12 mph, N
+2024-06-30T18:00:00-05:00, Sunday, 55, Partly Cloudy, 6 to 12 mph, NE
+2024-07-01T06:00:00-05:00, Monday, 80, Mostly Sunny, 6 to 9 mph, E
+2024-07-01T18:00:00-05:00, Monday, 64, Mostly Clear, 5 to 8 mph, SE
+2024-07-02T06:00:00-05:00, Tuesday, 91, Sunny, 7 to 14 mph, SE
+2024-07-02T18:00:00-05:00, Tuesday, 74, Mostly Clear then Slight Chance Showers And Thunderstorms, 7 to 14 mph, S
+2024-07-03T06:00:00-05:00, Wednesday, 93, Chance Showers And Thunderstorms, 7 to 10 mph, SW
+2024-07-03T18:00:00-05:00, Wednesday, 73, Showers And Thunderstorms Likely, 2 to 7 mph, SW
+2024-07-04T06:00:00-05:00, Thursday, 86, Showers And Thunderstorms Likely, 3 to 7 mph, S
+2024-07-04T18:00:00-05:00, Thursday, 73, Showers And Thunderstorms Likely, 6 mph, S
+2024-07-05T06:00:00-05:00, Friday, 87, Chance Showers And Thunderstorms, 6 to 9 mph, W
+2024-07-05T18:00:00-05:00, Friday, 69, Chance Showers And Thunderstorms, 3 to 8 mph, W
+2024-07-06T06:00:00-05:00, Saturday, 87, Slight Chance Showers And Thunderstorms, 5 to 8 mph, NW
+2024-07-06T18:00:00-05:00, Saturday, 68, Slight Chance Showers And Thunderstorms then Mostly Clear, 2 to 6 mph, W
